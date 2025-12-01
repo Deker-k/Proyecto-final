@@ -1,0 +1,1 @@
+El proyecto permitió comprender el proceso interno de un corrector ortográfico, desde la lectura y limpieza del diccionario hasta la generación y validación de sugerencias, reforzando habilidades clave en algoritmos y manejo de texto
